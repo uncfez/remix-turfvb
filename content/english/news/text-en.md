@@ -2,7 +2,8 @@
 nType: new
 title: Lorem ipsum magna eiusmod
 date: 2022-04-11T03:23:40.860Z
-authors: linkaz
+authors: 
+- linkaz
 image: /media/cat.jpg
 summary: |
   Nulla magna eiusmod ea eu irure exercitation non incididunt.
