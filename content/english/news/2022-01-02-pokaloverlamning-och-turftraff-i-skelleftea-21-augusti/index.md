@@ -10,7 +10,7 @@ authors:
   - Ninetail
 featured_image: 
 image: 
-  caption: 'Foto: '
+#  caption: 'Foto: '
 ---
 
 Planen var picknick i Stadsparken men detta ändrades i sista stund till middag på restaurang Tatung på grund av kyligt väder. En crowdy i parken hanns dock med innan hela gänget förflyttade sig upp mot torget för ytterligare en crowdy innan middagen.
