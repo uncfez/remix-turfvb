@@ -10,7 +10,7 @@ authors:
   - linkaz
 featured_image: 
 image: 
-  caption: 'Foto: '
+#  caption: 'Foto: '
 ---
 
 Pike öppnade 2022 med att inkassera sitt andra världsbrons samt Västerbottens första världsmedalj 2022. Vem blir näst på tur?
