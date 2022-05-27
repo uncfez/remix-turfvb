@@ -10,7 +10,7 @@ authors:
   - Ninetail
 featured_image: 
 image: 
-  caption: 'Foto: '
+#  caption: 'Foto: '
 ---
 
 Nio turfare träffades vid äventyrslekparken på Ersboda i Umeå för att snacka turf, grilla korv och överlämna pokalen till Pike. Pike har inte bara lyckats ta en tionde inteckning på vandringspokalen, han har också tagit sitt andra världsbrons. Stort grattis, Pike!
