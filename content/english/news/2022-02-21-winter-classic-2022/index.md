@@ -11,7 +11,7 @@ tags:
   - umeå
   - winter classic
 image: 
-  caption: 'Foto: '
+#  caption: 'Foto: '
 ---
 
 Då anmälningarna till det tänkta 24h Winter var alldeles för få så har Föreningen valt att snabbt lägga om till ett vanligt traditionsenligt Winter Classic.
