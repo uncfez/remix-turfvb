@@ -14,6 +14,8 @@ Den yngsta deltagaren, Fr3ja, byggde några stiliga turfgubbar i snö och hade s
 
 Det togs också en crowdy vid Umebeach. De modigare fortsatte sedan ut på isen för ytterligare en crowdy i Nydalabadet. PelSjö underhöll med historien om hur han fick simma ut till den zonen två gånger samma dag en sommar eftersom den första tagningen inte registrerades.
 
+**Länkar behöver uppdateras**
+
 ![](https://turfvasterbotten.files.wordpress.com/2022/01/270009656_439682591167488_4958788070057138319_n.jpeg?w=768 "jeppe1, Cykeltalibanen, inda7 och UncleFester. UncleFester låtsas oskyldig. Foto: Ninetail.")
 
 ![](https://turfvasterbotten.files.wordpress.com/2022/01/270022187_1118416995575618_8916531664836473917_n.jpeg?w=1024 "Fr3ja i hårt arbete medan övriga roar sig vid elden. Foto: Ninetail.")
