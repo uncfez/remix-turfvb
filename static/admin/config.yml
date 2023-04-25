@@ -6,29 +6,29 @@ media_folder: "/static/media" # Folder where user uploaded files should go
 public_folder: "/media"
 editor:
   preview: false
-locale: 'fr'
+locale: 'sv'
 
 # Allow local visit
 # You need to run at the root of the project `npx netlify-cms-proxy-server`
 local_backend: true
 
 # i18n https://www.netlifycms.org/docs/beta-features/#i18n-support
-i18n:
-  structure: multiple_folders
-  locales: [ en, fr ]
-  default_locale: en
+# i18n:
+#  structure: multiple_folders
+#  locales: [ en, fr ]
+#  default_locale: en
 
 
 # collections configuration
 collections:
   - name: "sections"
-    label: "Global settings"
+    label: "Inställningar"
     i18n:
       structure: single_file
-      locales: [ en, fr ]
+#      locales: [ en, fr ]
     files:
       - file: "data/home.yml"
-        i18n: true
+#        i18n: true
         label: "Home"
         name: "home"
         fields: [
@@ -42,7 +42,7 @@ collections:
       - file: "data/about.yml"
         label: "About"
         name: "about"
-        i18n: true
+#        i18n: true
         description: "Go to edit the about section"
         fields:
           [
@@ -57,7 +57,7 @@ collections:
       - file: "data/products.yml"
         label: "Products"
         name: "productions"
-        i18n: true
+#        i18n: true
         fields:
           [
             { label: "Title", name: "title", widget: string, i18n: true },
@@ -79,7 +79,7 @@ collections:
       - file: "data/scenes.yml"
         label: "Solutions"
         name: "industry"
-        i18n: true
+#        i18n: true
         fields:
           [
             { label: "Title", name: "title", widget: string, i18n: true },
@@ -101,7 +101,7 @@ collections:
       - file: "data/news.yml"
         label: "News"
         name: "news"
-        i18n: true
+#        i18n: true
         fields:
           [
             { label: "Title", name: "title", widget: string, i18n: true },
@@ -111,7 +111,7 @@ collections:
       - file: "data/contact.yml"
         label: "Contact"
         name: "contact"
-        i18n: true
+#        i18n: true
         fields:
           [
             { label: "Title", name: "title", widget: string, i18n: true },
@@ -127,7 +127,7 @@ collections:
       - file: "data/glossary.yml"
         label: "Glossary"
         name: "glossary"
-        i18n: true
+#        i18n: true
         fields:
           [
             { label: "home", name: "home", widget: string, i18n: true },
@@ -147,7 +147,7 @@ collections:
     create: true
     fields:
       [
-        { label: "Titre", name: "title", widget: "string" },
+        { label: "Title", name: "title", widget: "string" },
         # { label: "Publish Date", name: "date", widget: "datetime"},
         # { label: "Cover Image", name: "image", widget: "image" },
         # { label: "Summary", name: "summary", widget: "text" },
